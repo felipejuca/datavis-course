@@ -13,4 +13,33 @@
 
 ---
 
+## Aula "Introdução ao D3 (Parte 2) - Escalas e Eixos"
+
+Link: https://observablehq.com/@felipejuca/introducao-ao-d3-parte-2-escalas-e-eixos/2
+
+
+## Aula "Introdução ao D3 (Parte 3) - Updates e Transições"
+
+Link: https://observablehq.com/@felipejuca/introducao-ao-d3-parte-3-updates-e-transicoes
+
+
+## Aula "D3 com Crossfilter e DC.js"
+
+Link: "https://observablehq.com/@felipejuca/d3-com-crossfilter-e-dc-js"
+
+
+## Aula "D3 com Crossfilter e DC.js (Parte 2)"
+
+Link: https://observablehq.com/@felipejuca/d3-com-crossfilter-e-dc-js-parte-2
+
+
+## Aula "D3 com Crossfilter, DC.js e Leaflet"
+
+Link: https://observablehq.com/@felipejuca/d3-com-crossfilter-dc-js-e-leaflet
+
+
+## Aula "Crimes em Chicago"
+
+Link: https://observablehq.com/@felipejuca/crimes-em-chigago
+
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
