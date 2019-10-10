@@ -42,4 +42,10 @@ Link: https://observablehq.com/@felipejuca/d3-com-crossfilter-dc-js-e-leaflet
 
 Link: https://observablehq.com/@felipejuca/crimes-em-chigago
 
+
+## Aula "Similar Song Network"
+
+Link: https://observablehq.com/@felipejuca/similar-song-network 
+
+
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
