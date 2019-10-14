@@ -48,4 +48,10 @@ Link: https://observablehq.com/@felipejuca/crimes-em-chigago
 Link: https://observablehq.com/@felipejuca/similar-song-network 
 
 
+## Aula "Les Miserables Dataset"
+
+Link: https://observablehq.com/@felipejuca/les-miserables-dataset
+
+
+
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
