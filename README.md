@@ -53,5 +53,9 @@ Link: https://observablehq.com/@felipejuca/similar-song-network
 Link: https://observablehq.com/@felipejuca/les-miserables-dataset
 
 
+## Aula "Taxa de desemprego nos EUA em agosto de 2016"
+
+Link: https://observablehq.com/@felipejuca/taxa-de-desemprego-nos-eua-em-agosto-de-2016
+
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
