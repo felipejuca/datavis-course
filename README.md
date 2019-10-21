@@ -57,5 +57,9 @@ Link: https://observablehq.com/@felipejuca/les-miserables-dataset
 
 Link: https://observablehq.com/@felipejuca/taxa-de-desemprego-nos-eua-em-agosto-de-2016
 
+## Aula "Homicídios em Fortaleza em 2012"
+
+Link: https://observablehq.com/@felipejuca/homicidios-em-fortaleza-em-2012
+
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
