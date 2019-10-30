@@ -68,4 +68,9 @@ Link: https://observablehq.com/@felipejuca/homicidios-em-fortaleza-em-2012
 Link: https://observablehq.com/@felipejuca/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2
 
 
+## Aula "D3 com Crossfilter, DC.js e Leaflet (Parte 2)"
+
+Link: https://observablehq.com/@felipejuca/d3-com-crossfilter-dc-js-e-leaflet-parte-2
+
+
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
